@@ -53,7 +53,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://prodify-6uci.onrender.com/",  # depois que fizer o deploy no Vercel
+    "https://prodify-6uci.onrender.com",  # depois que fizer o deploy no Vercel
 ]
 
 REST_FRAMEWORK = {
